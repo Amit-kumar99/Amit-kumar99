@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Amit-kumar99
-- 👀 I’m interested in projects related to web development using java, js.
+- 👀 I’m interested in projects related to web development using Html, css, js, React.
 - 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me : amit.kumar.16208932@gmail.com
