@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Amit-kumar99
+- 👋 Hi, I’m Amit Kumar
 - 👀 I’m interested in projects related to web development using React.
 - 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on projects.
