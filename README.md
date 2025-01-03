@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amit Kumar
 - 👀 I’m interested in projects related to web development using MERN, Spring boot microservices.
-- 🌱 I’m currently learning microservices using spring boot, AWS.
+- 🌱 I’m currently learning AWS.
 - 💞️ I’m looking to collaborate on full stack or frontend / backend projects.
 - 📫 How to reach me : amit.kumar.16208932@gmail.com
 
